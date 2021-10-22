@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nullnyat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nullnyat.com
+  * I am nullnyat (https://keybase.io/nullnyat) on keybase.
+  * I have a public key ASAxVkzFFYGlV88WaL2cny4AJhMPKpLZ655951F1sI5LvAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012066b8c2c56f1fce9f32844c6d3dba09264caf982ad4ee71957dc9d25d10c87df40a",
+      "host": "keybase.io",
+      "kid": "012031564cc51581a557cf1668bd9c9f2e0026130f2a92d9eb9e7de75175b08e4bbc0a",
+      "uid": "0348007b81e09c8293e39b83a7e5c819",
+      "username": "nullnyat"
+    },
+    "merkle_root": {
+      "ctime": 1634902407,
+      "hash": "ced91e7f28eeaffe26d1f307b808b82cddecabf74446f5b90d0d563e1b5586e3dc7e65304657623bf7b12f8be69e776ae570e452c5e89e9e4f3c35b8407901be",
+      "hash_meta": "be95396ecb34ac77fbeb573c6f07592b785b8492a5719aa11ccc530f08a72cda",
+      "seqno": 21039989
+    },
+    "service": {
+      "entropy": "LNG4WyqHHBsHhicJoDWWCWNU",
+      "hostname": "nullnyat.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1634902457,
+  "expire_in": 504576000,
+  "prev": "a42d52d8421de6d810504b50eedd0ff4b18f8f99a5539ee4aed8ee612a8b5c88",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMVZMxRWBpVfPFmi9nJ8uACYTDyqS2euefedRdbCOS7wKp3BheWxvYWTESpcCFsQgpC1S2EId5tgQUEtQ7t0P9LGPj5mlU57krtjuYSqLXIjEIKmUaHMY38hzjQPZDp2E8zTAMyoTjed2f5frYxHByCseAgHCo3NpZ8RABf1ZFrAySwl/VywmxgOF9l58Wua8urLzBhY/Nr2jZ5V2VDcAJfayHnhq7g6cEzdom7fDIZ58OZGgmY4mNxYXA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA5F/lq2lOxxS4emGZr7M0Zs5LmqJumhWvJICCVX0ctho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nullnyat
+
+==================================================================
